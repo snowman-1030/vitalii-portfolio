@@ -76,7 +76,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    A Full Stack Web Developer
+                    React Native | Flutter | iOS | Android | 7+ Years Developer
                   </p>
                 </BlurIn>
               </div>
