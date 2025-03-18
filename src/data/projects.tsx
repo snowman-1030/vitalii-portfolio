@@ -244,7 +244,7 @@ const projects: Project[] = [
     id: "reserve",
     category: "Salon Booking",
     title: "Rezerve – Poland’s Leading Mobile App for Salon Booking",
-    src: "/assets/projects-screenshots/Reserve/1.png",
+    src: "/assets/projects-screenshots/reserve/1.png",
     screenshots: ["1.png"],
     live: "https://play.google.com/store/apps/details?id=com.techubllc.rezerve",
     github: "https://apps.apple.com/us/app/rezerve/id6496685025",
