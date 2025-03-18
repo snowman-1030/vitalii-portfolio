@@ -6,7 +6,7 @@ const config = {
       "Discover the portfolio of Naresh, a full-stack developer creating interactive web experiences and innovative projects.",
   },
   keywords: [
-    "Naresh",
+    "Vitalii",
     "portfolio",
     "full-stack developer",
     "creative technologist",
@@ -23,9 +23,9 @@ const config = {
     "Spline",
     "Framer Motion",
   ],
-  author: "Naresh Khatri",
-  email: "naresh.khatri2345@gmail.com",
-  site: "https://nareshkhatri.site",
+  author: "Vitalii Kaminskyi",
+  email: "vitaliikaminskyi556@gmail.com",
+  site: "https://vitalii-portfolio.vercel.app",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
