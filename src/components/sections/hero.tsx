@@ -76,14 +76,14 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    React Native | Flutter | iOS | Android | 7+ Years Developer
+                    Flutter | React Native | FlutterFlow | iOS | Android | 7+ Years
                   </p>
                 </BlurIn>
               </div>
               <div className="mt-8 md:ml-2 flex flex-col gap-3">
                 <Link
                   href={
-                    "https://drive.google.com/file/d/1O97WCk2DrO9x6SHOqf7LvRbmHkMgGIb4/view?usp=sharing"
+                    "https://docs.google.com/document/d/1foeOQYJQRIFoOf5t-lCzb68cqUxfe5bK5usJOEfovxQ/edit?usp=sharing"
                   }
                   target="_blank"
                   className="flex-1"
@@ -111,22 +111,6 @@ const HeroSection = () => {
                       <p>pls 🥹 🙏</p>
                     </TooltipContent>
                   </Tooltip>
-                  <Link
-                    href={config.social.github}
-                    target="_blank"
-                  >
-                    <Button variant={"outline"}>
-                      <SiGithub size={24} />
-                    </Button>
-                  </Link>
-                  <Link
-                    href={config.social.linkedin}
-                    target="_blank"
-                  >
-                    <Button variant={"outline"}>
-                      <SiLinkedin size={24} />
-                    </Button>
-                  </Link>
                 </div>
               </div>
             </>

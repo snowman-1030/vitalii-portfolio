@@ -11,53 +11,32 @@ import "@splidejs/react-splide/css";
 const PROJECTS = [
   {
     id: 1,
-    name: "Coding Ducks",
-    description: `Dive into CodingDucks, a fusion of CodePen's creative playground with LeetCode's problem-solving realm.
-Whether you're a newbie or a seasoned coder, join the community to paddle through coding adventures and let your
-creativity soar.`,
-    link: "https://www.codingducks.live",
+    name: "Rezerve",
+    description: `Rezerve is a feature-rich mobile app designed for seamless salon bookings in Poland. Built with Flutter, it offers a smooth iOS & Android experience.
+
+Our team handled full-cycle mobile app development, from UI/UX design to backend integration, ensuring a seamless experience. Key features include:
+- Effortless Booking – Users book services in seconds.
+- Salon Management System – Business owners manage clients & staff schedules.
+- Real-Time Notifications – Reduce no-shows with automated alerts.
+
+Flutter App Development – Android App Development - iOS App Development – Laravel - Firebase`,
+    link: "https://play.google.com/store/apps/details?id=com.techubllc.rezerve",
     images: [
-      "/assets/projects-screenshots/codingducks/1.png",
-      "/assets/projects-screenshots/codingducks/2.png",
-      "/assets/projects-screenshots/codingducks/3.png",
-      "/assets/projects-screenshots/codingducks/4.png",
-      "/assets/projects-screenshots/codingducks/5.png",
+      "/assets/projects-screenshots/reserve/1.png",
+      "/assets/projects-screenshots/reserve/2.png",
     ],
   },
   {
     id: 2,
-    name: "Ghost Chat",
-    description: `GhostChat is an anonymous messaging app that allows users to connect without revealing their identities. 
-Join the community for intriguing conversations and mysterious encounters.`,
-    link: "https://ghostchatt.vercel.app/",
+    name: "Primecar",
+    description: `Primecar is a high-performance mobile app for car renting & selling, making vehicle transactions effortless.`,
+    link: "https://play.google.com/store/apps/details?id=com.dinsstech.primecar&hl=en_US",
     images: [
-      "/assets/projects-screenshots/ghostchat/1.png",
-      "/assets/projects-screenshots/ghostchat/2.png",
-      "/assets/projects-screenshots/ghostchat/3.png",
-      "/assets/projects-screenshots/ghostchat/4.png",
+      "/assets/projects-screenshots/primecar/1.png",
+      "/assets/projects-screenshots/primecar/2.png",
+      "/assets/projects-screenshots/primecar/3.png",
+      "/assets/projects-screenshots/primecar/4.png",
     ],
-  },
-  {
-    id: 3,
-    name: "Coupon Luxury",
-    description: `Welcome to CouponLuxury, your destination for exclusive discounts and savings. Explore the platform to find the
-best deals on luxury brands and products. Join our savvy community of shoppers and unlock access to premium coupons.`,
-    link: "https://www.couponluxury.com/",
-    images: [
-      "/assets/projects-screenshots/couponluxury/1.png",
-      "/assets/projects-screenshots/couponluxury/2.png",
-      "/assets/projects-screenshots/couponluxury/3.png",
-      "/assets/projects-screenshots/couponluxury/4.png",
-      "/assets/projects-screenshots/couponluxury/5.png",
-    ],
-  },
-  {
-    id: 4,
-    name: "JNTUA Results Analyser",
-    description: `the go-to app for JNTUA students, empowering them to analyze, compare, and view classwise results effortlessly.
-     Dive into your academic journey with ease, track your progress, and gain valuable insights.`,
-    link: "/projects/4",
-    images: ["/assets/projects-screenshots/jra/1.png"],
   },
 ];
 function Page() {
