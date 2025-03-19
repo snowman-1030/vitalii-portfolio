@@ -26,10 +26,10 @@ const config = {
   },
   social: {
     twitter: "",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/vitalii-kaminskyi556/",
     instagram: "",
     facebook: "",
-    github: "",
+    github: "https://github.com/devprogrammer",
   },
 };
 export { config };
