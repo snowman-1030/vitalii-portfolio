@@ -55,13 +55,13 @@ const CONTACT_LINKS = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/vitalii-kaminskyi/",
+    href: "https://www.linkedin.com/in/vitalii-kaminskyi556/",
     content: "/vitalii-kaminskyi",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/vitalii-kaminskyi",
+    href: "https://github.com/devprogrammer",
     content: "/vitalii-kaminskyi",
     icon: <FaGithub height={"50px"} />,
   },

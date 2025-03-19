@@ -12,6 +12,7 @@ function Footer() {
       <p className="text-xs text-gray-500 dark:text-gray-400">
         © {year} {config.author}. All rights reserved.
       </p>
+      <SocialMediaButtons />
       <nav className="flex gap-4 sm:gap-6 z-10">
         {footer.map((link, index) => {
           const { title, href } = link;

@@ -111,6 +111,22 @@ const HeroSection = () => {
                       <p>pls 🥹 🙏</p>
                     </TooltipContent>
                   </Tooltip>
+                  <Link
+                    href={config.social.github}
+                    target="_blank"
+                  >
+                    <Button variant={"outline"}>
+                      <SiGithub size={24} />
+                    </Button>
+                  </Link>
+                  <Link
+                    href={config.social.linkedin}
+                    target="_blank"
+                  >
+                    <Button variant={"outline"}>
+                      <SiLinkedin size={24} />
+                    </Button>
+                  </Link>
                 </div>
               </div>
             </>
