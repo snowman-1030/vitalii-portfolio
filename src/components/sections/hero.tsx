@@ -76,7 +76,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    Flutter | React Native | FlutterFlow | iOS | Android | 7+ Years
+                    Flutter | React Native | Ionic | iOS | Android | 7+ Years
                   </p>
                 </BlurIn>
               </div>
